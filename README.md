@@ -83,7 +83,6 @@ The `PomodoroTimer` class in `script.js` is well-structured for extensions:
 - Integrate with external APIs
 
 ## Mobile Support
-
 The timer is fully responsive and works great on mobile devices:
 - Touch-friendly buttons
 - Optimized layout for small screens
@@ -91,7 +90,6 @@ The timer is fully responsive and works great on mobile devices:
 - Swipe gestures (future enhancement)
 
 ## Contributing
-
 Contributions are welcome! Here are some ways you can help:
 - Report bugs or suggest features
 - Improve the UI/UX design
@@ -100,11 +98,9 @@ Contributions are welcome! Here are some ways you can help:
 - Add internationalization
 
 ## License
-
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
 - Inspired by the Pomodoro Technique® developed by Francesco Cirillo
 - Icons provided by [Font Awesome](https://fontawesome.com/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
